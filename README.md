@@ -1,6 +1,6 @@
 # chess
 
-Fully desktop chess application written in C# using Object Oriented Programing priciples. 
+Fully functional desktop chess application written in C# using Object Oriented Programing priciples. 
 
 ### All chess rules were implemented including
 - castle
